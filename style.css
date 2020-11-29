@@ -4,7 +4,7 @@ html,body {
 body{
   margin: 0px;
   padding: 0px;
- background:url("img/Car.jpg") center no-repeat;
+ background:url("Car.jpg") center no-repeat;
 background-size: cover;
 background-attachment: fixed;
 }
