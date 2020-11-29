@@ -1,8 +1,8 @@
-var a=['img/abc1.jpg',
-      'img/A2.jpg',
-       'img/A3.jpg',
-       'img/A4.jpg',
-       'img/A5.jpg'];
+var a=['abc1.jpg',
+      'A2.jpg',
+       'A3.jpg',
+       'A4.jpg',
+       'A5.jpg'];
        
    var c=0;
 setInterval(slide,2300);
